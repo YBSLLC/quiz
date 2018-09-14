@@ -5,5 +5,5 @@
 *.swp
 .vscode/
 typings/
-node_modules/
-.idea/
+node_modules
+.git
